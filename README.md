@@ -6,11 +6,6 @@ A react-Native project just to demonstrate how to integrate the PayPal for check
 | :----------------: | :------------: |
 | ![](./android.gif) | ![](./ios.gif) |
 
-<p align="center">
-<img src="./androidPaypalDemo.gif" hspace="20"  width="250" height="400"/>
-<img src="./iosPaypalDemo.gif" hspace="20" width="250" height="400"/>
-</p>
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
