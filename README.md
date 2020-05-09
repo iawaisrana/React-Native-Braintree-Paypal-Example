@@ -2,7 +2,9 @@
 
 A react-Native project just to demonstrate how to integrate the PayPal for checkout. Current project uses [react-native-paypal](https://github.com/smarkets/react-native-paypal) as a third-party library for PayPal integration.
 
-![Android Demp](android.gif) ![iOS Demo](ios.gif)
+<p align="center">
+ ![Android Demp](android.gif) ![iOS Demo](ios.gif)
+</p>
 
 ## Getting Started
 
